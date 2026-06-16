@@ -5,11 +5,7 @@
   <a href="https://www.linkedin.com/in/birkaran-popli/">LinkedIn</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&multiline=false&width=520&lines=BSc+Mathematics+%26+Economics+at+LSE;Markets%2C+Trading%2C+Macro;FICC+at+North+Capital+Partners;Head+of+Markets+at+LSE+BIG" alt="" />
-</p>
-
-<br />
+<p align="center">BSc Mathematics &amp; Economics at LSE &nbsp;·&nbsp; Markets, Trading, Macro</p>
 
 ### About
 
